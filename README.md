@@ -61,7 +61,7 @@ A professional Python web scraper that collects complete eBay listing data — i
 
 ## Built With
 
-- Python 3.x
+- Python 3.14
 - Requests — HTTP session handling with retry/backoff
 - BeautifulSoup4 (lxml, with automatic fallback)
 - Openpyxl — Excel file creation and formatting
