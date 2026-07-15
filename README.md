@@ -1,6 +1,6 @@
 # eBay Wireless Mouse Scraper
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.14-blue?logo=python&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup4-lxml-green)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
